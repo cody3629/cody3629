@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cody3629
+- 👋 Hi, I’m Cody Webb!
 - 👀 I’m interested in web/software development.
 - 🌱 I’m currently learning full stack web development through a bootcamp hosted by The Ohio State University.
 - 📫 How to reach me - webbcody36@gmail.com OR feel free to reach out to me on Github!
