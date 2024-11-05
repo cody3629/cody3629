@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cody Webb!
 - 👀 I’m interested in web/software development.
-- 🌱 I’m currently learning full stack web development through a bootcamp hosted by The Ohio State University.
-- 📫 How to reach me - webbcody36@gmail.com OR feel free to reach out to me on Github!
+- 🌱 I’m currently a Frontend Engineer for Abercrombie & Fitch.
+- 📫 How to reach me - webbcody36@gmail.com
 
 <!---
 cody3629/cody3629 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
